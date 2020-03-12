@@ -16,6 +16,6 @@ return sheepObject;
 }
 public String  toString()
 {
-return "Dolly is my Hero,Baaaa";
+return "Baba Black Sheep is my Hero,Baaaa";
 }
 }
